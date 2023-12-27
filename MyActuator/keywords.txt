@@ -1,0 +1,45 @@
+# datatypes and class names
+
+	MyActuator						KEYWORD1
+
+# functions and methods
+
+    begin							KEYWORD2
+    getPIDParameters				KEYWORD2	
+    setPIDParametersRAM				KEYWORD2	
+    setPIDParametersROM				KEYWORD2	
+    setAccel						KEYWORD2
+    getPos							KEYWORD2
+    getZeroOffset                   KEYWORD2
+    setMotorZero                    KEYWORD2
+    getAbsAngle                     KEYWORD2
+    getMotorStatus1                 KEYWORD2
+    getMotorStatus2                 KEYWORD2
+    getMotorStatus3					KEYWORD2
+    shutdown                        KEYWORD2
+    stop                            KEYWORD2
+    setTorque                       KEYWORD2
+    setSpeed                        KEYWORD2
+    setAbsPos                       KEYWORD2
+    setPosSpeed                     KEYWORD2
+    setIncrementalPos               KEYWORD2
+    getMode                         KEYWORD2
+    getPower                        KEYWORD2
+    resetProgram                    KEYWORD2
+    brakeRelease                    KEYWORD2
+    brakeLock						KEYWORD2
+    runtime                         KEYWORD2
+    softwareVersion                 KEYWORD2
+    setProtectionTime               KEYWORD2
+    setBAUDRate                     KEYWORD2
+    getModel                        KEYWORD2
+	functionControl                 KEYWORD2
+    setCANID                        KEYWORD2
+    motionModeControl               KEYWORD2
+    setRS485ID                      KEYWORD2
+    checkReceived					KEYWORD2
+	pollMotors                      KEYWORD2
+	sendUnidCANMessage              KEYWORD2
+	serialFeedback                  KEYWORD2
+
+# defines
